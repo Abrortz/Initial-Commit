@@ -1,2 +1,2 @@
 # CitasApp
-Proyecto de Servicios Web de noveno semestre de ICI.
+proyecto de servicios seb de noveno semestre de ICI.
